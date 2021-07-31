@@ -1,6 +1,6 @@
 # Chocolate Cake Recipe
 
-##Ingridients
+Ingridients
 
 Cooking spray
 
